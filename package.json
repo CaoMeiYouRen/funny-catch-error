@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "“正确”的异常处理方式，纯属娱乐，生产环境请勿使用，否则后果自负",
   "author": "CaoMeiYouRen",
-  "private": true,
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
